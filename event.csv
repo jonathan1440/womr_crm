@@ -1,0 +1,2 @@
+name,date,location,onlookers
+event name,2024-08-01 00:00:00,location str,"{'max': 100, 'projected': 50, 'actual': 30}"
